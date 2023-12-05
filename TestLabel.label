@@ -40,7 +40,7 @@
 			<Verticalized>False</Verticalized>
 			<StyledText>
 				<Element>
-					<String>9138-6000</String>
+					<String>Label text to update</String>
 					<Attributes>
 						<Font Family="Helvetica" Size="13" Bold="False" Italic="False" Underline="False" Strikeout="False"/>
             <ForeColor Alpha="255" Red="255" Green="255" Blue="255"/>
