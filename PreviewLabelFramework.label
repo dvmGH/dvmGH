@@ -7,7 +7,7 @@
         <RoundRectangle X="0" Y="0" Width="1581" Height="5040" Rx="270" Ry="270" />
     </DrawCommands>
     <ObjectInfo>
-        <TextObject>
+        <AddressObject>
             <Name>Address</Name>
             <ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
             <BackColor Alpha="0" Red="255" Green="255" Blue="255" />
@@ -36,7 +36,7 @@
                 <Font Family="Arial" Size="12" Bold="False" Italic="False" Underline="False" Strikeout="False" />
                 <Font Family="Arial" Size="12" Bold="False" Italic="False" Underline="False" Strikeout="False" />
             </LineFonts>
-        </TextObject>
+        </AddressObject>
         <Bounds X="332" Y="150" Width="4455" Height="1260" />
     </ObjectInfo>
 </DieCutLabel>
