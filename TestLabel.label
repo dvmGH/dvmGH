@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DieCutLabel Version="8.0" Units="twips" MediaType="Default">
   <PaperOrientation>Landscape</PaperOrientation>
-	<Id>Small30336</Id>
-	<CustomPaper>
-		<Size Width="1260" Height="2880" />
-		<PrintableSize Width="720" Height="2880" />
-		<PrintableOrigin X="0" Y="0" />
-		<Offset X="350" Y="100" />
-	</CustomPaper>
+	<Id>Address</Id>
+	 <PaperName>30252 Address</PaperName>
 	<DrawCommands>
 		<RoundRectangle X="0" Y="0" Width="1581" Height="5040" Rx="270" Ry="270"/>
 	</DrawCommands>
