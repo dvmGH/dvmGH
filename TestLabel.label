@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DieCutLabel Version="8.0" Units="twips" MediaType="Default">
   <PaperOrientation>Landscape</PaperOrientation>
-  <Id>Address</Id>
-  <PaperName>30252 Address</PaperName>
-  <DrawCommands>
-    <RoundRectangle X="0" Y="0" Width="1581" Height="5040" Rx="270" Ry="270"/>
-  </DrawCommands>
+	<Id>Small30336</Id>
+	<CustomPaper>
+		<Size Width="1260" Height="2880" />
+		<PrintableSize Width="720" Height="2880" />
+		<PrintableOrigin X="0" Y="0" />
+		<Offset X="350" Y="100" />
+	</CustomPaper>
+	<DrawCommands>
+		<RoundRectangle X="0" Y="0" Width="1581" Height="5040" Rx="270" Ry="270"/>
+	</DrawCommands>
   <ObjectInfo>
     <ImageObject>
       <Name>GRAPHIC</Name>
@@ -24,30 +29,30 @@
     </ImageObject>
     <Bounds X="331.2" Y="125.787" Width="1345.547" Height="1367.013"/>
   </ObjectInfo>
-  <ObjectInfo>
-    <TextObject>
-      <Name>label-text-main</Name>
-      <ForeColor Alpha="255" Red="255" Green="255" Blue="255"/>
-      <BackColor Alpha="255" Red="0" Green="0" Blue="0"/>
-      <LinkedObjectName></LinkedObjectName>
-      <Rotation>Rotation0</Rotation>
-      <IsMirrored>False</IsMirrored>
-      <IsVariable>True</IsVariable>
-      <HorizontalAlignment>Center</HorizontalAlignment>
-      <VerticalAlignment>Middle</VerticalAlignment>
-      <TextFitMode>ShrinkToFit</TextFitMode>
-      <UseFullFontHeight>True</UseFullFontHeight>
-      <Verticalized>False</Verticalized>
-      <StyledText>
-        <Element>
-          <String>COMMUNICATION DEVICE</String>
-          <Attributes>
-            <Font Family="Helvetica" Size="13" Bold="False" Italic="False" Underline="False" Strikeout="False"/>
+	<ObjectInfo>
+		<TextObject>
+			<Name>label-text-main</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName></LinkedObjectName>
+			<Rotation>Rotation90</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>False</IsVariable>
+			<HorizontalAlignment>Center</HorizontalAlignment>
+			<VerticalAlignment>Middle</VerticalAlignment>
+			<TextFitMode>ShrinkToFit</TextFitMode>
+			<UseFullFontHeight>True</UseFullFontHeight>
+			<Verticalized>False</Verticalized>
+			<StyledText>
+				<Element>
+					<String>9138-6000</String>
+					<Attributes>
+						<Font Family="Helvetica" Size="13" Bold="False" Italic="False" Underline="False" Strikeout="False"/>
             <ForeColor Alpha="255" Red="255" Green="255" Blue="255"/>
-          </Attributes>
-        </Element>
-      </StyledText>
-    </TextObject>
+					</Attributes>
+				</Element>
+			</StyledText>
+ </TextObject>
     <Bounds X="1767.576" Y="85.89893" Width="3023.375" Height="736.3293"/>
   </ObjectInfo>
   <ObjectInfo>
