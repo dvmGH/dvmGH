@@ -30,7 +30,7 @@
 			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
 			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
 			<LinkedObjectName></LinkedObjectName>
-			<Rotation>Rotation90</Rotation>
+			<Rotation>Rotation0</Rotation>
 			<IsMirrored>False</IsMirrored>
 			<IsVariable>False</IsVariable>
 			<HorizontalAlignment>Center</HorizontalAlignment>
