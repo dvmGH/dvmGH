@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DieCutLabel Version="8.0" Units="twips" MediaType="Default">
+<DieCutLabel Version="8.0" Units="twips">
   <PaperOrientation>Landscape</PaperOrientation>
   <Id>Address</Id>
   <PaperName>30252 Address</PaperName>
