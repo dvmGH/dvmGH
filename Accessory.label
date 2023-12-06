@@ -22,7 +22,7 @@
       <Verticalized>False</Verticalized>
       <StyledText>
         <Element>
-          <String>WHDTicket BUILDING</String>
+          <String>WHDTICKET</String>
           <Attributes>
             <Font Family="Helvetica" Size="13" Bold="False" Italic="False" Underline="False" Strikeout="False"/>
             <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
@@ -30,7 +30,7 @@
         </Element>
       </StyledText>
     </TextObject>
-    <Bounds X="1863.527" Y="110.256" Width="2996.397" Height="1372.895"/>
+    <Bounds X="1863.527" Y="604.3966" Width="3055.03" Height="878.8034"/>
   </ObjectInfo>
   <ObjectInfo>
     <ImageObject>
@@ -49,5 +49,31 @@
       <VerticalAlignment>Center</VerticalAlignment>
     </ImageObject>
     <Bounds X="331.2" Y="95.71869" Width="1324.664" Height="1386.263"/>
+  </ObjectInfo>
+<ObjectInfo>
+    <TextObject>
+      <Name>BuildingLabelText</Name>
+      <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
+      <BackColor Alpha="0" Red="255" Green="255" Blue="255"/>
+      <LinkedObjectName></LinkedObjectName>
+      <Rotation>Rotation0</Rotation>
+      <IsMirrored>False</IsMirrored>
+      <IsVariable>False</IsVariable>
+      <HorizontalAlignment>Center</HorizontalAlignment>
+      <VerticalAlignment>Middle</VerticalAlignment>
+      <TextFitMode>AlwaysFit</TextFitMode>
+      <UseFullFontHeight>True</UseFullFontHeight>
+      <Verticalized>False</Verticalized>
+      <StyledText>
+        <Element>
+          <String>BUILDING</String>
+          <Attributes>
+            <Font Family="Helvetica" Size="14" Bold="True" Italic="False" Underline="False" Strikeout="False"/>
+            <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
+          </Attributes>
+        </Element>
+      </StyledText>
+    </TextObject>
+    <Bounds X="1894.922" Y="48.00003" Width="3058.678" Height="532.8"/>
   </ObjectInfo>
 </DieCutLabel>
