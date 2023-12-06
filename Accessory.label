@@ -30,7 +30,7 @@
         </Element>
       </StyledText>
     </TextObject>
-    <Bounds X="1863.527" Y="604.3966" Width="3055.03" Height="878.8034"/>
+    <Bounds X="1863.527" Y="696.5841" Width="3055.03" Height="786.6159"/>
   </ObjectInfo>
   <ObjectInfo>
     <ImageObject>
@@ -74,6 +74,6 @@
         </Element>
       </StyledText>
     </TextObject>
-    <Bounds X="1894.922" Y="48.00003" Width="3058.678" Height="532.8"/>
+    <Bounds X="1894.922" Y="48.00003" Width="3058.678" Height="622.0578"/>
   </ObjectInfo>
 </DieCutLabel>
