@@ -40,7 +40,7 @@
       <Verticalized>False</Verticalized>
       <StyledText>
         <Element>
-          <String>WHD:</String>
+          <String>WHD</String>
           <Attributes>
             <Font Family="Helvetica" Size="14" Bold="False" Italic="False" Underline="False" Strikeout="False"/>
             <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
